@@ -1,4 +1,3 @@
-// src/database/migrations/XXXXXXXXXXXXXX-create-titles-table.js
 
 'use strict';
 

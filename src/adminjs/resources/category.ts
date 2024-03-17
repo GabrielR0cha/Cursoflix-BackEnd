@@ -1,4 +1,3 @@
-// src/adminjs/resources/category.ts
 
 import { ResourceOptions } from "adminjs";
 

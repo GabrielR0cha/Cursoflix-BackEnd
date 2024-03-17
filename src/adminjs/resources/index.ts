@@ -1,4 +1,3 @@
-// src/adminjs/resources.ts
 
 import { ResourceWithOptions } from "adminjs";
 import { Category, Course, Episode, User } from "../../models";

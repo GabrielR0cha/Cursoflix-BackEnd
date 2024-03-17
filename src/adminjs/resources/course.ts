@@ -1,4 +1,3 @@
-// src/adminjs/resources/course.ts
 
 import uploadFileFeature from "@adminjs/upload";
 import { ResourceOptions, FeatureType } from "adminjs";

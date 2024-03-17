@@ -1,4 +1,3 @@
-// src/adminjs/resources/user.ts
 
 import { ResourceOptions } from "adminjs";
 
